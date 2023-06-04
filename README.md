@@ -31,3 +31,8 @@ Sourse Venv\bin\activate
 Установите необходимые зависимости:
 
 pip install -r requirements.txt
+
+
+Запуск программы 
+
+python3 main.py
